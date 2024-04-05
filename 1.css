@@ -3,12 +3,12 @@ body{
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-color: yellow;
+    background-color: pink;
 }
 
 .view {
     height: 120px;
-    background-color: pink;
+    background-color: red;
     text-align: center;
     text-transform: uppercase;
     line-height: 3;
@@ -17,8 +17,8 @@ body{
 
 .card {
 	 position: relative;
-	 width: 300px;
-	 height: 425px;
+	 width: 400px;
+	 height: 575px;
 	 border: 10px solid #9612eb;
 	 margin: 60px auto 0 auto;
 	 box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
