@@ -3,12 +3,12 @@ body{
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-color: pink;
+    background-color: yellow;
 }
 
 .view {
     height: 120px;
-    background-color: red;
+    background-color: pink;
     text-align: center;
     text-transform: uppercase;
     line-height: 3;
